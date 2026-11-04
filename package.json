@@ -1,0 +1,15 @@
+{
+  "name": "evtol-bio-nexus-2050",
+  "version": "3.0.0",
+  "description": "Unified Industrial eVTOL & Bio-Nexus 2050 AI Governance Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
